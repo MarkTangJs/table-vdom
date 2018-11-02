@@ -1,0 +1,29 @@
+{
+  "name": "table-vdom",
+  "version": "0.1.0",
+  "description": "this is tatble virtual dom",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTangJs/table-vdom.git"
+  },
+  "author": "MarkTang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkTangJs/table-vdom/issues"
+  },
+  "homepage": "https://github.com/MarkTangJs/table-vdom#readme",
+  "dependencies": {
+    "snabbdom": "^0.7.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^3.11.0"
+  }
+}
